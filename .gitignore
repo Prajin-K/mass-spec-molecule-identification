@@ -1,0 +1,22 @@
+﻿# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Competition data - do not publish
+data_set/
+*.parquet
+*.zip
+
+# Generated files
+outputs/
+models/
+reports/
+.env
+
+# IDE
+.idea/
