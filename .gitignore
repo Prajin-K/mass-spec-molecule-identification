@@ -1,4 +1,4 @@
-﻿# Python environment
+# Python environment
 .venv/
 venv/
 __pycache__/
@@ -15,8 +15,13 @@ data_set/
 # Generated files
 outputs/
 models/
+checkpoints/
+*.npy
+kaggle_kernel/
+kaggle_kernel_check/
 reports/
 .env
 
 # IDE
 .idea/
+kaggle.json
